@@ -1,0 +1,20 @@
+                         _
+ ___  __ _ ______ _  ___| |__   ___
+/ __|/ _` |_  / _` |/ __| '_ \ / _ \
+\__ \ (_| |/ / (_| | (__| | | |  __/
+|___/\__,_/___\__,_|\___|_| |_|\___|
+
+Overview
+========
+
+sazache (pronounced sah-zah-chee) is tiny web server for static sites,
+implemented in szl (https://github.com/dimkr/szl).
+
+Credits and Legal Information
+=============================
+
+sazache is free and unencumbered software released under the terms of the MIT
+license; see COPYING for the license text. For a list of its authors and
+contributors, see AUTHORS.
+
+The ASCII art logo at the top was made using FIGlet (http://www.figlet.org/).
